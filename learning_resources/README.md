@@ -13,3 +13,5 @@ This repository contains Jupyter Notebook files for fine-tuning LLM models using
    - Tutorial: [How To Fine Tune LLAMA2 LLM Models With Custom Data With Gradient AI Cloud](https://youtu.be/_78rA4uV4jA?si=wr_9lUUENYJg30Ui)
 
 Feel free to explore the notebooks for detailed implementations of fine-tuning techniques.
+
+Fine-Tuning Large Language Models (LLMs): https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91 
